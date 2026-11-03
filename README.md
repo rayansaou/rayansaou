@@ -51,6 +51,10 @@ Ce que j'aime : comprendre *comment ça marche vraiment*, du paquet réseau au c
 
 **Dev & scripts**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP%20(PDO)-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -70,7 +74,7 @@ Ce que j'aime : comprendre *comment ça marche vraiment*, du paquet réseau au c
 | **UTM / pare-feu** | **Stormshield** (administration et configuration d'un UTM) |
 | **Supervision & conteneurs** | **Zabbix** (supervision), **Docker** / **Docker Compose** |
 | **Cryptographie & accès** | **PKI / TLS** (OpenSSL, certificats), **OpenSSH** (authentification par clés, attaque MITM) |
-| **Web & scripts** | **PHP** (accès aux données avec **PDO**) / MySQL, Bash, PowerShell, Git |
+| **Web & scripts** | **Python**, **C**, **HTML / CSS**, **PHP** (accès aux données avec **PDO**) / MySQL, Bash, PowerShell, Git |
 | **Cloud** | Déploiement et exploitation de serveurs sur GCP |
 | **Outils & méthode** | ClickUp (agile), Plesk, documentation technique |
 
