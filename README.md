@@ -24,6 +24,41 @@ Ce que j'aime : comprendre *comment ça marche vraiment*, du paquet réseau au c
 
 ---
 
+## 🧰 Stack
+
+**Réseaux & sécurité**
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![Stormshield](https://img.shields.io/badge/Stormshield-0B3D91?style=for-the-badge)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+**Systèmes**
+
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+**Supervision, conteneurs & cloud**
+
+![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**Dev & scripts**
+
+![PHP](https://img.shields.io/badge/PHP%20(PDO)-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
 ## 🛠️ Compétences
 
 | Domaine | Technologies / notions |
@@ -35,7 +70,7 @@ Ce que j'aime : comprendre *comment ça marche vraiment*, du paquet réseau au c
 | **UTM / pare-feu** | **Stormshield** (administration et configuration d'un UTM) |
 | **Supervision & conteneurs** | **Zabbix** (supervision), **Docker** / **Docker Compose** |
 | **Cryptographie & accès** | **PKI / TLS** (OpenSSL, certificats), **OpenSSH** (authentification par clés, attaque MITM) |
-| **Web & scripts** | PHP / MySQL, Bash, PowerShell, Git |
+| **Web & scripts** | **PHP** (accès aux données avec **PDO**) / MySQL, Bash, PowerShell, Git |
 | **Cloud** | Déploiement et exploitation de serveurs sur GCP |
 | **Outils & méthode** | ClickUp (agile), Plesk, documentation technique |
 
@@ -64,7 +99,7 @@ Ce que j'aime : comprendre *comment ça marche vraiment*, du paquet réseau au c
 **Projets**
 - ☁️ **Serveur de jeu sur GCP** : hébergement et exploitation pour un groupe d'amis (incidents disque, corruption de données, automatisation).
 - 🏢 **Projet de professionnalisation** : équipe de 4 en méthode agile, dont j'assure la coordination.
-- 💻 **Intranet PHP/MySQL** : développement en groupe d'une application web d'entreprise.
+- 💻 **Intranet PHP/MySQL** : développement en groupe d'une application web d'entreprise, accès à la base via **PDO**.
 
 ---
 
